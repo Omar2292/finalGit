@@ -14,4 +14,7 @@ public class Main {
             System.out.println("i = " + i);
         }
     }
+    public static int add(int a,int b){
+        return a+b;
+    }
 }
